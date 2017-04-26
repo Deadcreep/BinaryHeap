@@ -1,0 +1,6 @@
+C:\Users\Nurgle\Documents\GitHub\BinaryHeap\BinaryHeap\BinaryHeap\bin\Debug\BinaryHeap.exe.config
+C:\Users\Nurgle\Documents\GitHub\BinaryHeap\BinaryHeap\BinaryHeap\bin\Debug\BinaryHeap.exe
+C:\Users\Nurgle\Documents\GitHub\BinaryHeap\BinaryHeap\BinaryHeap\bin\Debug\BinaryHeap.pdb
+C:\Users\Nurgle\Documents\GitHub\BinaryHeap\BinaryHeap\BinaryHeap\obj\Debug\BinaryHeap.csprojResolveAssemblyReference.cache
+C:\Users\Nurgle\Documents\GitHub\BinaryHeap\BinaryHeap\BinaryHeap\obj\Debug\BinaryHeap.exe
+C:\Users\Nurgle\Documents\GitHub\BinaryHeap\BinaryHeap\BinaryHeap\obj\Debug\BinaryHeap.pdb
